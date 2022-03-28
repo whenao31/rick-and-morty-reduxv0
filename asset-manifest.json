@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/rick-and-morty-reduxv0/static/js/main.dab53669.js",
+    "index.html": "/rick-and-morty-reduxv0/index.html",
+    "main.dab53669.js.map": "/rick-and-morty-reduxv0/static/js/main.dab53669.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.dab53669.js"
+  ]
+}
