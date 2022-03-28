@@ -1,0 +1,1 @@
+export {default as searchAll} from './searchAll'
